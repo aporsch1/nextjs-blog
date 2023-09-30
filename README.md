@@ -1,4 +1,1 @@
->Be me
->trying to learn JavaScript
->Decides to make website to learn how it works
->website is cool😎
+Made website to try and learn how to use JS.Next and then the website was dope so I am continuing to keep up with it🥸

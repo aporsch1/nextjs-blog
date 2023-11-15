@@ -1,5 +1,5 @@
 ---
-title: 'Test File'
+title: 'ML Class 1'
 date: '2023-11-14'
 ---
 ## This is a test file 
